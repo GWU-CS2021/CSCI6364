@@ -10,5 +10,6 @@
 - Homework 5 (due 02/28 at 11:59pm)
 - Homework 6 (due 03/07 at 11:59pm)
 - Homework 7 (due 03/21 at 11:59pm)
+- EXAM2 03/24
 - Homework 8 (as EXTRA CREDIT, due 04/04 at 11:59pm)
-- EXAM2 05/?
+- FINAL 05/?
