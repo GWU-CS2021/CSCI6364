@@ -12,4 +12,6 @@
 - Homework 7 (due 03/21 at 11:59pm)
 - EXAM2 03/24
 - Homework 8 (as EXTRA CREDIT, due 04/04 at 11:59pm)
+- project part2 due 04/07 11:59pm
+- Project part3 due 04/21 at 11:59pm
 - FINAL 05/?
