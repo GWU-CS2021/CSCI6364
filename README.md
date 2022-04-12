@@ -14,4 +14,4 @@
 - Homework 8 (as EXTRA CREDIT, due 04/04 at 11:59pm)
 - project part2 due 04/07 11:59pm
 - Project part3 due 04/21 at 11:59pm
-- FINAL 05/?
+- Final MON	250	Tuesday, May 3, 2022 12:40pm-2:40pm
